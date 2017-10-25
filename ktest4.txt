@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is ACEB-9F61
+
+ Directory of C:\Users\kadeg\ktech
+
+25/10/2017  03:21 PM    <DIR>          .
+25/10/2017  03:21 PM    <DIR>          ..
+25/10/2017  03:21 PM                 0 ktest3.txt
+25/10/2017  03:21 PM                 0 ktest4.txt
+25/10/2017  03:16 PM               392 ktestfile1.txt
+25/10/2017  03:02 PM                72 README.md
+               4 File(s)            464 bytes
+               2 Dir(s)  446,576,332,800 bytes free
